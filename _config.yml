@@ -1,0 +1,23 @@
+name: ADRAPokus
+favicon: null
+layout_spectrum: 0.43928195838816464
+typography_spectrum: 0.9859795763622969
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5757357496768236
+  lightness: 0.31093462323769927
+  saturation: 0.22534278919920325
+  rhythmicContrast: 0.6179766482673585
+purpose: []
